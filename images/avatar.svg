@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="avatar.svg"
+   width="50"
+   height="50"
+   viewBox="-16500 0 0 220"
+   inkscape:export-filename="/home/klomp/tmp/planeworld/planeworld.github.io/images/avatar.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="-0.8450666"
+     inkscape:cy="24.195589"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3455"
+       dotted="false"
+       originx="7.8623391"
+       originy="-17.213156" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4143"
+     transform="matrix(0.82899967,0.55924909,-0.55924909,0.82899967,33.585366,-14.469859)">
+    <path
+       d="m 15.02652,55.508457 -0.25638,0 q -3.46121,0 -6.24941,-2.563857 -2.72409,-2.852289 -2.72409,-6.409644 l 0,-18.523862 q 0,-3.172776 2.33953,-5.928922 2.88433,-2.980487 6.76216,-2.980487 1.7947,0 3.62145,0.73711 l 0,-9.774705 L 18.58388,10 23.968,10 24,10.06409 24,46.534956 q 0,3.429169 -2.56386,6.249413 -2.8523,2.724088 -6.40965,2.724088 z m 3.49326,-9.261933 0,-17.914947 q 0,-2.435665 -2.27542,-3.493259 -0.70507,-0.256385 -1.18578,-0.256385 l -0.32049,0 q -1.41012,0 -2.5959,1.249882 -0.86531,1.057591 -0.86531,2.499762 l 0,17.914947 q 0,2.371581 2.08313,3.461216 0.76917,0.320478 1.53832,0.320478 1.44217,0 2.59591,-1.089636 1.02554,-1.057589 1.02554,-2.692058 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Alanus;-inkscape-font-specification:Alanus;letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="letter_d"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 14.770112,19 0.256386,0 q 3.461208,0 6.249404,2.563857 Q 24,24.416149 24,27.973504 l 0,18.523869 q 0,3.172774 -2.33952,5.92892 -2.884339,2.980488 -6.762175,2.980488 -1.7947,0 -3.621448,-0.737109 l 0,9.774705 -0.0641,0.06409 -5.384104,0 -0.03204,-0.06409 0,-36.470873 q 0,-3.429162 2.563858,-6.249406 Q 11.212763,19 14.770115,19 Z m -3.493256,9.261936 0,17.914955 q 0,2.435664 2.275424,3.493256 0.70506,0.256386 1.185784,0.256386 l 0.320482,0 q 1.410123,0 2.595907,-1.249881 0.865302,-1.057591 0.865302,-2.499761 l 0,-17.914953 q 0,-2.371571 -2.083134,-3.46121 -0.769158,-0.320484 -1.538316,-0.320484 -1.44217,0 -2.595906,1.089641 -1.025543,1.057591 -1.025543,2.692053 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Alanus;-inkscape-font-specification:Alanus;letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="letter_p"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
